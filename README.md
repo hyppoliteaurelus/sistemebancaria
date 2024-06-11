@@ -4,7 +4,7 @@
 
 Este projeto é uma aplicação Java para controlar uma conta bancária virtual, onde é possível realizar operações como consultar saldo, receber e transferir valores.
 
-        ## Funcionalidades
+  ## Funcionalidades
 
 - Consultar saldo
 - Receber valor
@@ -15,10 +15,9 @@ Este projeto é uma aplicação Java para controlar uma conta bancária virtual,
 
 - **Nome:** Jacqueline Oliveira
 - **Tipo de Conta:** Corrente
-- **Saldo Inicial:** R$ 2500,00
+- **Saldo Inicial:** R$ 2500,00  
 
-        ## Como Executar
-
+ ## Como Executar
 1. Clone este repositório:
         ```bash
 git clone https://github.com/seu-usuario/conta-bancaria-virtual.git
